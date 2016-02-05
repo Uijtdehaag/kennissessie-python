@@ -1,0 +1,23 @@
+
+
+id: "2016-02-05:CXX:M310:149"
+vehicle {
+  trip {
+    trip_id: "35844180"
+    start_time: "14:26:00"
+    start_date: "20160205"
+    schedule_relationship: SCHEDULED
+    route_id: "1695"
+    direction_id: 0
+  }
+  position {
+    latitude: 52.3222351074
+    longitude: 4.79287195206
+  }
+  current_stop_sequence: 5
+  current_status: STOPPED_AT
+  timestamp: 1454679703
+  vehicle {
+    label: "9212"
+  }
+}
